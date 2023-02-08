@@ -6,7 +6,7 @@ I will only recommend the best tools that I rely on myself.
 # Technological tools
 * VSCode
   * [Grammarly plugin](https://marketplace.visualstudio.com/items?itemName=znck.grammarly)
-* [Vale](https://vale.sh) (with the coniguration provided [here](./.vale.ini).
+* [Vale](https://vale.sh) (with the coniguration provided [here](./.vale.ini)).
 
 
 # Resources I recommend
