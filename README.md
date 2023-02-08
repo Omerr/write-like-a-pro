@@ -15,6 +15,9 @@ I will only recommend the best tools that I rely on myself.
 * [The Publication Coach](https://www.publicationcoach.com/) - Daphne Gray Grant provides wonderful tips on everything related to writing I've been following her posts and books for years.
 * [Write Useful Books](https://amzn.to/3JIuZhq) - by Rob Fitzpatrick.
 
+## Working with tools
+* [Writing Novels and Non-Fiction with VSCode](https://jaypenner.com/blog/writing-novels-and-non-fiction-with-visual-studio-code/).
+
 
 ## Style and other guides
 * [The Sense of Style](https://amzn.to/3DIJOgo) - by Steven Pinker. The first three chapters provide clear principles regarding good writing that I try to follow.
