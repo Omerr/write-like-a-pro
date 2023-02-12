@@ -4,9 +4,14 @@ My own methodology / curated list of resources for writing like a pro - programm
 I will only recommend the best tools that I rely on myself.
 
 # Technological tools
-* VSCode
-  * [Grammarly plugin](https://marketplace.visualstudio.com/items?itemName=znck.grammarly)
+
 * [Vale](https://vale.sh) (with the coniguration provided [here](./.vale.ini)).
+* VSCode (see plugins)
+
+## VSCode plugins
+  * [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly)
+  * [WordCounter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
+  * [Vale](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server)
 
 
 # Resources I recommend
