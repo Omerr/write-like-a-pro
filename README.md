@@ -3,6 +3,10 @@ My own methodology / curated list of resources for writing like a pro - programm
 
 I will only recommend the best tools that I rely on myself.
 
+# Video
+
+* I gave a short talk about hacking your writing - watch it [here](https://youtu.be/3YV6gQhboGM).
+
 # Technological tools
 
 * [Vale](https://vale.sh) (with the coniguration provided [here](./.vale.ini)).
